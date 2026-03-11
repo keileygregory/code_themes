@@ -1,0 +1,25 @@
+make vs code theme work in r studio: https://dieghernan.github.io/rstudiothemes/
+
+tmtheme editor: https://tmtheme-editor.linuxbox.ninja/#!/editor/theme/Monokai
+
+vs code .json —to—> rstheme --------------------------------
+rstudiothemes::convert_to_rstudio_theme(
+  "path.json",
+  outfile = "path.rstheme",
+  apply = TRUE,
+  force = TRUE
+)
+
+vs code .json —to—> tmtheme --------------------------------
+rstudiothemes::convert_vs_to_tm_theme(
+  "path.json",
+  outfile = "path.tmtheme"
+)
+
+tmtheme —to—> rstheme --------------------------------
+rstudiothemes::convert_to_rstudio_theme(
+  "path.tmTheme",
+  outfile = "path.rstheme",
+  apply = TRUE,
+  force = TRUE
+)
