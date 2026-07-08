@@ -1,0 +1,51 @@
+{
+  "invisibles" : {
+    "color" : "#343434"
+  },
+  "lineHighlight" : {
+    "color" : "#000000"
+  },
+  "selection" : {
+    "usesSystemSetting" : false,
+    "color" : "#102015"
+  },
+  "values" : {
+    "color" : "#69542d"
+  },
+  "variables" : {
+    "color" : "#e92f2f"
+  },
+  "types" : {
+    "color" : "#e92f2f"
+  },
+  "background" : {
+    "color" : "#000000"
+  },
+  "keywords" : {
+    "color" : "#3b48e3"
+  },
+  "characters" : {
+    "color" : "#0ed839"
+  },
+  "numbers" : {
+    "color" : "#0ed839"
+  },
+  "attributes" : {
+    "color" : "#f996e2"
+  },
+  "commands" : {
+    "color" : "#e09448"
+  },
+  "insertionPoint" : {
+    "color" : "#ababab"
+  },
+  "text" : {
+    "color" : "#f9f9f9"
+  },
+  "comments" : {
+    "color" : "#343434"
+  },
+  "strings" : {
+    "color" : "#0ed839"
+  }
+}
