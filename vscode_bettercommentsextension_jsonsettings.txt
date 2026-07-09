@@ -11,6 +11,7 @@
     },
     "workbench.colorTheme": "Customized Lunar Light",
     "better-comments.tags": [
+
         {
             "tag": "༚",
             "color": "#f994ff",
@@ -74,7 +75,6 @@
             "bold": true,
             "italic": false
         },
-
         {
             "tag": "˖",
             "color": "#2b00ad",
@@ -82,7 +82,7 @@
             "underline": false,
             "backgroundColor": "#c9cfff",
             "bold": false,
-            "italic": true
+            "italic": false
         },
         {
             "tag": "·",
@@ -119,8 +119,42 @@
             "backgroundColor": "#ff9c9c",
             "bold": true,
             "italic": false
-        }
+        },
+        {
+            "tag": "˓",
+            "color": "#b3b3b3",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#ededed",
+            "bold": false,
+            "italic": false
+        },
+        
+        { "tag": "❥", "color": "#ff1493", "strikethrough": false, "underline": false, "backgroundColor": "#ffe0f0", "bold": true, "italic": false },
+        { "tag": "✿", "color": "#ff4db8", "strikethrough": false, "underline": false, "backgroundColor": "#ffe6f5", "bold": false, "italic": false },
+        { "tag": "❀", "color": "#ff5cc8", "strikethrough": false, "underline": false, "backgroundColor": "#ffe9f7", "bold": false, "italic": false },
+        { "tag": "⟡", "color": "#ff6ec7", "strikethrough": false, "underline": false, "backgroundColor": "#ffebf6", "bold": false, "italic": false },
+        { "tag": "◜", "color": "#ff85d4", "strikethrough": false, "underline": false, "backgroundColor": "#ffeef9", "bold": false, "italic": false },
+        { "tag": "⊹", "color": "#ff3ea5", "strikethrough": false, "underline": false, "backgroundColor": "#ffe4f1", "bold": false, "italic": false },
+        { "tag": "✎", "color": "#ff2d8f", "strikethrough": false, "underline": false, "backgroundColor": "#ffe2ee", "bold": true, "italic": false },
+
+        { "tag": "≈", "color": "#00a3b8", "strikethrough": false, "underline": false, "backgroundColor": "#e0fbff", "bold": true, "italic": false },
+        { "tag": "⌇", "color": "#2dad98", "strikethrough": false, "underline": false, "backgroundColor": "#e0fffc", "bold": false, "italic": false },
+        { "tag": "❧", "color": "#3d9970", "strikethrough": false, "underline": false, "backgroundColor": "#ebfff5", "bold": false, "italic": false },
+        { "tag": "⟢", "color": "#4a9db5", "strikethrough": false, "underline": false, "backgroundColor": "#e8f8fc", "bold": false, "italic": false },
+        { "tag": "◦", "color": "#6ab0c4", "strikethrough": false, "underline": false, "backgroundColor": "#eef9fc", "bold": false, "italic": false },
+        { "tag": "~", "color": "#a0a0a0", "strikethrough": true, "underline": false, "backgroundColor": "#ededed", "bold": false, "italic": false },
+
+        { "tag": "❋", "color": "#8b7bff", "strikethrough": false, "underline": false, "backgroundColor": "#f0edff", "bold": true, "italic": false },
+        { "tag": "✧", "color": "#a582ff", "strikethrough": false, "underline": false, "backgroundColor": "#f4f0ff", "bold": false, "italic": false },
+        { "tag": "⟐", "color": "#7c6fe0", "strikethrough": false, "underline": false, "backgroundColor": "#eeebfc", "bold": false, "italic": false },
+        { "tag": "❞", "color": "#9a8fd6", "strikethrough": false, "underline": false, "backgroundColor": "#f2f0fb", "bold": false, "italic": false },
+        { "tag": "⊰", "color": "#6b5dcf", "strikethrough": false, "underline": false, "backgroundColor": "#e9e6fa", "bold": false, "italic": false },
+        { "tag": "˖˖", "color": "#5a3dd6", "strikethrough": false, "underline": false, "backgroundColor": "#e2ddfc", "bold": false, "italic": false },
+        { "tag": "!!", "color": "#e6e0ff", "strikethrough": false, "underline": false, "backgroundColor": "#2b1682", "bold": true, "italic": false },
+        { "tag": "··", "color": "#b0b0b0", "strikethrough": false, "underline": false, "backgroundColor": "#efefef", "bold": false, "italic": false }
     ],
+
     "json.schemas": [],
     "breadcrumbs.enabled": false,
     "editor.renderWhitespace": "none",
@@ -159,5 +193,6 @@
     "editor.largeFileOptimizations": false,
     "git.autorefresh": false,
     "git.autoRepositoryDetection": false,
-    "git.openRepositoryInParentFolders": "never"
+    "git.openRepositoryInParentFolders": "never",
+    "better-comments.highlightPlainText": true
 }
