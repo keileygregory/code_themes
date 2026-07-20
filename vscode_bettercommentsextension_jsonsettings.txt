@@ -41,7 +41,7 @@
         { "tag": "⟢", "color": "#4a9db5", "strikethrough": false, "underline": false, "backgroundColor": "#e8f8fc", "bold": false, "italic": false },
         { "tag": "◦", "color": "#6ab0c4", "strikethrough": false, "underline": false, "backgroundColor": "#eef9fc", "bold": false, "italic": false },
 
-        { "tag": "𖠜", "color": "#ff8400", "strikethrough": false, "underline": false, "backgroundColor": "#ffd9a3", "bold": true, "italic": false },
+        { "tag": "𖠜", "color": "#ff8400", "strikethrough": false, "underline": false, "backgroundColor": "#ffedd6", "bold": true, "italic": false },
         { "tag": "ㅱ", "color": "#bf0000", "strikethrough": false, "underline": false, "backgroundColor": "#ff9c9c", "bold": true, "italic": false },
         { "tag": "˓", "color": "#b3b3b3", "strikethrough": false, "underline": false, "backgroundColor": "#ededed", "bold": false, "italic": false }
     ],
