@@ -10,149 +10,40 @@
         "file:/**/*.csv": "jupyter-data-wrangler"
     },
     "workbench.colorTheme": "Customized Lunar Light",
+
     "better-comments.tags": [
-
-        {
-            "tag": "༚",
-            "color": "#f994ff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#fef0ff",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "⋆",
-            "color": "#00b5de",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#e6faff",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "༝",
-            "color": "#306eff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#d1ddff",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "¸",
-            "color": "#94a9ff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#f0f3ff",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "‧",
-            "color": "#59b38f",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#ebfff7",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "⋄",
-            "color": "#a582ff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#f4f0ff",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "˚",
-            "color": "#2dad98",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#e0fffc",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "˖",
-            "color": "#2b00ad",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#c9cfff",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "·",
-            "color": "#94008f",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#fcd1ff",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "!",
-            "color": "#d9deff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#290982",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "𖠜",
-            "color": "#ffa60d",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "ㅱ",
-            "color": "#bf0000",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#ff9c9c",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "˓",
-            "color": "#b3b3b3",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "#ededed",
-            "bold": false,
-            "italic": false
-        },
-        
         { "tag": "❥", "color": "#ff1493", "strikethrough": false, "underline": false, "backgroundColor": "#ffe0f0", "bold": true, "italic": false },
-        { "tag": "✿", "color": "#ff4db8", "strikethrough": false, "underline": false, "backgroundColor": "#ffe6f5", "bold": false, "italic": false },
-        { "tag": "❀", "color": "#ff5cc8", "strikethrough": false, "underline": false, "backgroundColor": "#ffe9f7", "bold": false, "italic": false },
-        { "tag": "⟡", "color": "#ff6ec7", "strikethrough": false, "underline": false, "backgroundColor": "#ffebf6", "bold": false, "italic": false },
-        { "tag": "◜", "color": "#ff85d4", "strikethrough": false, "underline": false, "backgroundColor": "#ffeef9", "bold": false, "italic": false },
-        { "tag": "⊹", "color": "#ff3ea5", "strikethrough": false, "underline": false, "backgroundColor": "#ffe4f1", "bold": false, "italic": false },
-        { "tag": "✎", "color": "#ff2d8f", "strikethrough": false, "underline": false, "backgroundColor": "#ffe2ee", "bold": true, "italic": false },
+        { "tag": "·", "color": "#94008f", "strikethrough": false, "underline": false, "backgroundColor": "#fcd1ff", "bold": true, "italic": false },
+        { "tag": "⊹", "color": "#ff5cc8", "strikethrough": false, "underline": false, "backgroundColor": "#ffe9f7", "bold": false, "italic": false },
+        { "tag": "⟡", "color": "#ff85d4", "strikethrough": false, "underline": false, "backgroundColor": "#ffeef9", "bold": false, "italic": false },
+        { "tag": "༚", "color": "#f994ff", "strikethrough": false, "underline": false, "backgroundColor": "#fef0ff", "bold": false, "italic": false },
 
-        { "tag": "≈", "color": "#00a3b8", "strikethrough": false, "underline": false, "backgroundColor": "#e0fbff", "bold": true, "italic": false },
-        { "tag": "⌇", "color": "#2dad98", "strikethrough": false, "underline": false, "backgroundColor": "#e0fffc", "bold": false, "italic": false },
-        { "tag": "❧", "color": "#3d9970", "strikethrough": false, "underline": false, "backgroundColor": "#ebfff5", "bold": false, "italic": false },
+        { "tag": "❋", "color": "#7461ff", "strikethrough": false, "underline": false, "backgroundColor": "#d9d4ff", "bold": true, "italic": false },
+        { "tag": "✧", "color": "#a582ff", "strikethrough": false, "underline": false, "backgroundColor": "#f4f0ff", "bold": true, "italic": false },
+        { "tag": "⊰", "color": "#7c6fe0", "strikethrough": false, "underline": false, "backgroundColor": "#eeebfc", "bold": false, "italic": false },
+        { "tag": "⋄", "color": "#a582ff", "strikethrough": false, "underline": false, "backgroundColor": "#f4f0ff", "bold": false, "italic": false },
+        { "tag": "~", "color": "#9a8fd6", "strikethrough": false, "underline": false, "backgroundColor": "#f2f0fb", "bold": false, "italic": false },
+
+        { "tag": "!", "color": "#d9deff", "strikethrough": false, "underline": false, "backgroundColor": "#290982", "bold": true, "italic": false },
+        { "tag": "⁘", "color": "#0059ed", "strikethrough": false, "underline": false, "backgroundColor": "#d1e2ff", "bold": true, "italic": false },
+        { "tag": "⋆", "color": "#00a0c4", "strikethrough": false, "underline": false, "backgroundColor": "#cff6ff", "bold": true, "italic": false },
+        { "tag": "✦", "color": "#00cde8", "strikethrough": false, "underline": false, "backgroundColor": "#dbfaff", "bold": true, "italic": false },
+        { "tag": "˖", "color": "#2b00ad", "strikethrough": false, "underline": false, "backgroundColor": "#c9cfff", "bold": false, "italic": false },
+        { "tag": "༝", "color": "#306eff", "strikethrough": false, "underline": false, "backgroundColor": "#d1ddff", "bold": false, "italic": false },
+        { "tag": "◈", "color": "#18c9d6", "strikethrough": false, "underline": false, "backgroundColor": "#d9fbff", "bold": false, "italic": false },
+        { "tag": "⟣", "color": "#0091ea", "strikethrough": false, "underline": false, "backgroundColor": "#d6ecff", "bold": false, "italic": false },
+        { "tag": "◜", "color": "#00b0f0", "strikethrough": false, "underline": false, "backgroundColor": "#daf3ff", "bold": false, "italic": false },
+
+        { "tag": "˚", "color": "#2dad98", "strikethrough": false, "underline": false, "backgroundColor": "#e0fffc", "bold": true, "italic": false },
+        { "tag": "❈", "color": "#00a3b8", "strikethrough": false, "underline": false, "backgroundColor": "#e0fbff", "bold": true, "italic": false },
+        { "tag": "𓇬", "color": "#2dad98", "strikethrough": false, "underline": false, "backgroundColor": "#e0fffc", "bold": false, "italic": false },
+        { "tag": "‧", "color": "#59b38f", "strikethrough": false, "underline": false, "backgroundColor": "#ebfff7", "bold": false, "italic": false },
         { "tag": "⟢", "color": "#4a9db5", "strikethrough": false, "underline": false, "backgroundColor": "#e8f8fc", "bold": false, "italic": false },
         { "tag": "◦", "color": "#6ab0c4", "strikethrough": false, "underline": false, "backgroundColor": "#eef9fc", "bold": false, "italic": false },
-        { "tag": "~", "color": "#a0a0a0", "strikethrough": true, "underline": false, "backgroundColor": "#ededed", "bold": false, "italic": false },
 
-        { "tag": "❋", "color": "#8b7bff", "strikethrough": false, "underline": false, "backgroundColor": "#f0edff", "bold": true, "italic": false },
-        { "tag": "✧", "color": "#a582ff", "strikethrough": false, "underline": false, "backgroundColor": "#f4f0ff", "bold": false, "italic": false },
-        { "tag": "⟐", "color": "#7c6fe0", "strikethrough": false, "underline": false, "backgroundColor": "#eeebfc", "bold": false, "italic": false },
-        { "tag": "❞", "color": "#9a8fd6", "strikethrough": false, "underline": false, "backgroundColor": "#f2f0fb", "bold": false, "italic": false },
-        { "tag": "⊰", "color": "#6b5dcf", "strikethrough": false, "underline": false, "backgroundColor": "#e9e6fa", "bold": false, "italic": false },
-        { "tag": "˖˖", "color": "#5a3dd6", "strikethrough": false, "underline": false, "backgroundColor": "#e2ddfc", "bold": false, "italic": false },
-        { "tag": "!!", "color": "#e6e0ff", "strikethrough": false, "underline": false, "backgroundColor": "#2b1682", "bold": true, "italic": false },
-        { "tag": "··", "color": "#b0b0b0", "strikethrough": false, "underline": false, "backgroundColor": "#efefef", "bold": false, "italic": false }
+        { "tag": "𖠜", "color": "#ff8400", "strikethrough": false, "underline": false, "backgroundColor": "#ffd9a3", "bold": true, "italic": false },
+        { "tag": "ㅱ", "color": "#bf0000", "strikethrough": false, "underline": false, "backgroundColor": "#ff9c9c", "bold": true, "italic": false },
+        { "tag": "˓", "color": "#b3b3b3", "strikethrough": false, "underline": false, "backgroundColor": "#ededed", "bold": false, "italic": false }
     ],
 
     "json.schemas": [],

@@ -17,6 +17,7 @@ rstudiothemes::convert_vs_to_tm_theme(
 )
 
 tmtheme —to—> rstheme (run in RStudio) --------------------------------
+library("rstudiothemes")
 rstudiothemes::convert_to_rstudio_theme(
   "path.tmTheme",
   outfile = "path.rstheme",

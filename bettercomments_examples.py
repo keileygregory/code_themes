@@ -1,47 +1,36 @@
-# MY CUSTOM COLORS
-#༚ text 
-#⋆ text 
-#༝ text 
-#¸ text 
-#‧ text 
-#⋄ text 
-#˚ text 
-#˖ text 
-#· text 
-#! text 
-#𖠜 text 
-#ㅱ text 
-#˓ text 
+# PINK ###############################################
+#❥  [test]
+#·  [test]
+#⊹  [test]
+#⟡  [test]
+#༚  [test]
 
-# BRIGHT AQUAS AND BLUES
-#✦ text 
-#❈ text 
-#⟣ text 
-#❖ text 
-#◈ text 
-#⁘ text
+# PURPLE #############################################  
+#❋  [test]
+#✧  [test]
+#⊰  [test]
+#⋄  [test]
+#~  [test]
 
-# ROSE AND BLUSH
-#❥ text 
-#✿ text 
-#❀ text 
-#⟡ text 
-#◜ text 
-#⊹ text 
-#✎ text 
+# BLUE ###############################################
+#!  [test]
+#⁘  [test]
+#⋆  [test]
+#✦  [test]
+#˖  [test]
+#༝  [test]
+#⟣  [test]
+#◜  [test]
 
-# SEAFOAM AND TEAL
-#≈ text 
-#⌇ text 
-#❧ text 
-#⟢ text 
-#◦ text 
-#~ text 
+# GREEN ##############################################
+#˚  [test]
+#❈  [test]
+#𓇬  [test]
+#‧  [test]
+#⟢  [test]
+#◦  [test]
 
-# LAVENDER AND PERIWINKLE
-#❋ text 
-#✧ text 
-#⟐ text 
-#❞ text 
-#⊰ text 
-#˖˖ text
+# MISC ###############################################
+#𖠜  [test]
+#ㅱ  [test]
+#˓  [test]
